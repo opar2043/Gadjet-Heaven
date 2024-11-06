@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 14 Pro",
+      "image": "https://i.ibb.co.com/LQBWTRf/iphn15.jpg",
+      "category": "mobile",
+      "price": 109,
+      "description": "The latest iPhone with A16 Bionic chip and advanced camera features.",
+      "specification": ["6.1-inch display", "A16 Bionic chip", "5G connectivity", "128GB storage"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S23",
+      "image": "https://i.ibb.co.com/Y3rVZpZ/s23.jpg",
+      "category": "mobile",
+      "price": 99,
+      "description": "High-performance Android phone with Snapdragon 8 Gen 2 and stunning display.",
+      "specification": ["6.2-inch display", "Snapdragon 8 Gen 2", "5G connectivity", "256GB storage"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "title": "Watch aps 3",
+      "image": "https://i.ibb.co.com/YhSBZcg/watch3.jpg",
+      "category": "watch",
+      "price": 170,
+      "description": "Sleek and lightweight laptop with Intel Core i7 processor and long battery life.",
+      "specification": ["1.4-inch FHD+ display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "OnePlus 11",
+      "image": "https://i.ibb.co.com/Y3rVZpZ/s23.jpg",
+      "category": "mobile",
+      "price": 74,
+      "description": "Powerful Android phone with fast charging and OxygenOS.",
+      "specification": ["6.7-inch display", "Snapdragon 8 Gen 2", "5G connectivity", "256GB storage"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy Watch 5",
+      "image": "https://i.ibb.co.com/fHWVGV0/watch1.jpg",
+      "category": "watch",
+      "price": 87,
+      "description": "Advanced smartwatch with health monitoring and sleep tracking.",
+      "specification": ["1.4-inch AMOLED display", "Blood Oxygen monitoring", "GPS", "Water resistant"],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "title": "Realme GT Neo 3",
+      "image": "https://i.ibb.co.com/9YpgFJ3/realme2.jpg",
+      "category": "mobile",
+      "price": 55,
+      "description": "Affordable phone with powerful performance and 150W fast charging.",
+      "specification": ["6.7-inch display", "MediaTek Dimensity 8100", "5G connectivity", "128GB storage"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "title": "Apple Watch Series 8",
+      "image": "https://i.ibb.co.com/p0NVzFv/watch-2.jpg",
+      "category": "watch",
+      "price": 99,
+      "description": "Apple’s latest smartwatch with advanced health and fitness features.",
+      "specification": ["Always-On Retina display", "Blood Oxygen sensor", "ECG app", "Water resistant"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "title": "Sony Xperia 1 IV",
+      "image": "https://i.ibb.co.com/RbG1cF6/s16.jpg",
+      "category": "mobile",
+      "price": 120,
+      "description": "Sony’s premium phone with 4K OLED display and advanced photography tools.",
+      "specification": ["6.5-inch 4K OLED display", "Snapdragon 8 Gen 1", "5G connectivity", "512GB storage"],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "title": "MacBook Pro 14-inch",
+      "image": "https://i.ibb.co.com/n3bZkSj/mac-2.jpg",
+      "category": "laptop",
+      "price": 199,
+      "description": "High-performance laptop with M2 Pro chip and advanced display technology.",
+      "specification": ["14.2-inch Liquid Retina display", "M2 Pro chip", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "title": "Dell XPS 13",
+      "image": "https://i.ibb.co.com/jb699JV/mac.jpg",
+      "category": "laptop",
+      "price": 120,
+      "description": "Sleek and lightweight laptop with Intel Core i7 processor and long battery life.",
+      "specification": ["13.4-inch FHD+ display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "title": "Macbook 13",
+      "image": "https://i.ibb.co.com/xH3CgM7/laptop-3.jpg",
+      "category": "laptop",
+      "price": 167,
+      "description": "Sleek and lightweight laptop with Intel Core i7 processor and long battery life.",
+      "specification": ["13.4-inch FHD+ display", "Intel Core i7", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "title": "Google Pixel 7",
+      "image": "https://i.ibb.co.com/RbG1cF6/s16.jpg",
+      "category": "mobile",
+      "price": 89,
+      "description": "Google’s flagship phone with AI-enhanced photography and latest Android features.",
+      "specification": ["6.3-inch display", "Google Tensor chip", "5G connectivity", "128GB storage"],
+      "availability": false,
+      "rating": 4.5
+    }
+
+  ]
+  
