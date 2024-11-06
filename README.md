@@ -36,9 +36,9 @@ Here i used some methode to build this project:
 - Dynamically go to different pages without reloading
  
   ## Live Link
-  stellar-narwhal-c69347.netlify.app
+  https://stellar-narwhal-c69347.netlify.app/
   ## requirment 
-  
+
   https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
 Hope you will enjoy the project.........
